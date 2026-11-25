@@ -1,0 +1,6 @@
+{
+  "name": "FJ Radio",
+  "description": "Offline voice calling, messaging, and screen sharing over Bluetooth and Wi-Fi Hotspot without internet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
